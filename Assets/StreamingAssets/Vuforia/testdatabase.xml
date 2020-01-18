@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="phlogo" size="4.000000 3.797468" />
+    <ImageTarget name="zuliplogo" size="4.000000 5.542169" />
     <ImageTarget name="rocks" size="4.000000 2.800000" />
   </Tracking>
 </QCARConfig>
