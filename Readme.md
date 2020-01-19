@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> An Augmented Reality application to assist watch and bracelet selection </p>
-------------------------------------------
+
 ## Installation
 - Download and install the APK file.
 - Print the marker image
