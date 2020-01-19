@@ -9,7 +9,7 @@
 ## Marker Image:
 <p align="center">
   <a href="" rel="noopener">
-  <img width=300px src="marker.jpg"></a>
+  <img width=100px src="marker.jpg"></a>
 </p>
 
 ## Note
