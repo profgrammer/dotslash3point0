@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="logo.png" alt="V-Watch Logo"></a>
+ <img width=300px src="logo.PNG" alt="V-Watch Logo"></a>
 </p>
 
-- An Augmented Reality application to assist watch and bracelet selection.
+<p align="center"> An Augmented Reality application to assist watch and bracelet selection </p>
 
 
 ## Installation
