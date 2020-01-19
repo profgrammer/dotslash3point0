@@ -3,7 +3,7 @@
  <img width=300px src="logo.PNG" alt="V-Watch Logo"></a>
 </p>
 
-<p align="center"> An Augmented Reality application to assist watch and bracelet selection </p>
+<p align="center"> An Augmented Reality application to assist watch and bracelet selection while ordering them online. </p>
 
 ## Installation
 - Download and install the APK file.
