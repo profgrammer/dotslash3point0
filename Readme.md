@@ -4,16 +4,20 @@
 </p>
 
 <p align="center"> An Augmented Reality application to assist watch and bracelet selection </p>
-
-
+------------------------------------------
 ## Installation
 - Download and install the APK file.
 - Print the marker image
 
-## Marker Image:
+## Marker Image
 <p align="center">
   <a href="" rel="noopener">
   <img width=100px src="marker.jpg"></a>
+</p>
+
+## Demo
+<p align="center">
+  <img src ="demo.gif" width=245px>
 </p>
 
 ## Note
