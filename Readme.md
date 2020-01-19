@@ -1,6 +1,10 @@
-# V-Watch - TRY it before you BUY it!
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=300px src="logo.png" alt="V-Watch Logo"></a>
+</p>
 
 - An Augmented Reality application to assist watch and bracelet selection.
+
 
 ## Installation
 - Download and install the APK file.
@@ -13,7 +17,7 @@
 </p>
 
 ## Note
-- This project was done under `24 hours with minimal pre-preparation`
+- This project was done under `24 hours with zero pre-preparation`
 
 ## Contributing
  We're are open to `enhancements` & `bug-fixes` :smile:
